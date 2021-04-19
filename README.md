@@ -21,12 +21,9 @@
 
 - 🎥 You can watch some of my not-at-all-edited [video tutorials](https://www.youtube.com/channel/UC840v4b_71e78fmPHiCPQVg/videos) or my livecoding fails on my [twitch.tv livestream channel](twitch.tv/BrainRPG)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UC840v4b_71e78fmPHiCPQVg/videosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="brainrpg" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelraz&show_icons=true&locale=en&layout=compact" alt="miguelraz" /></p>
+
+^ This script 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelraz&show_icons=true&locale=en" alt="miguelraz" /></p>
 
