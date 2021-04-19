@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Raz Guzmán MAcedo</h1>
+<h1 align="center">Hi 👋, I'm Miguel Raz Guzmán Macedo</h1>
 <h3 align="center">Julia REPL's #1 fan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelraz&label=Profile%20views&color=0e75b6&style=flat" alt="miguelraz" /> </p>
