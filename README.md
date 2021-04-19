@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/miguelraz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="miguelraz_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC840v4b_71e78fmPHiCPQVg/videosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="brainrpg" height="30" width="40" /></a>
 </p>
 
