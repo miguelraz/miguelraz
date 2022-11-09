@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rubin.jl**
 
-- 🌱 I’m currently learning **Numerical Relativty**
+- 🌱 I’m currently learning **Numerical Relativity**
 
 - 👨‍💻 All of my projects are available at [miguelraz.github.io](https://miguelraz.github.io/pubs/)
 
